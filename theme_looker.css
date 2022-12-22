@@ -71,12 +71,12 @@ th.headerCell {
 
 .headerCell.measure {
   background-color: #e4ecf3;
-  border-left: 1px solid #BDC3C7; 
+  /*border-left: 1px solid #BDC3C7; */
 }
 
 .headerCell.measure.calculation {
   background-color: #c9dfc5;
-  border-left: 1px solid #BDC3C7;
+ /* border-left: 1px solid #BDC3C7;*/
 }
 
 .headerCell.transposed.dimension {
