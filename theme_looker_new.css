@@ -46,6 +46,7 @@
 }
 
 .reportTable {
+  width:98% !important;
   font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
   color: #696969;
   border-collapse: collapse;
